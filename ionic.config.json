@@ -1,0 +1,7 @@
+{
+  "name": "BFproject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
